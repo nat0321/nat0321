@@ -1,4 +1,4 @@
-Hi! I’m @nat0321 Nico,
+Hi! I’m @nat0321 I go by Nico,
 I’m interested in aviation, computers, IT, and cars.
 I will be uploading the projects that I work on here.
 
