@@ -18,6 +18,7 @@ Hosting/Developing: [NoDak Pilot](https://nodakpilot.com/);<br>
   ![iOS](https://img.shields.io/badge/iOS-black?style=flat-square&logo=apple)
   ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
 
+  ![Proxmox](https://img.shields.io/badge/-Proxmox-black?style=flat-square&logo=proxmox)
   ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
   ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
   ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
