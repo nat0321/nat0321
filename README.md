@@ -8,22 +8,20 @@ Host/Developing: [NoDak Pilot](https://nodakpilot.com/);<br>
 
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
   ![Swift](https://img.shields.io/badge/-Swift-black?style=flat-square&logo=swift)
+  ![Kotlin]( https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin)
+  ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
 
   ![Unifi](https://img.shields.io/badge/-Unifi-black?style=flat-square&logo=ubiquiti&logoColor=0559C9)
-  ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-  ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
-  
+  ![macOS](https://img.shields.io/badge/macOS-black?style=flat-square&logo=apple)
   ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
+  ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+  
   ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
   ![MariaDB](https://img.shields.io/badge/MariaDB-black?style=flat-square&logo=mariadb)
 
   ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
   ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
-  ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
-  ![Kotlin]( https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin)
   ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
 
 ## 🚀 GitHub
