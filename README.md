@@ -6,6 +6,9 @@ Host/Developing: [NoDak Pilot](https://nodakpilot.com/);<br>
 
 ## 💻 Skills
 
+  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+  ![Swift](https://img.shields.io/badge/-Swift-black?style=flat-square&logo=swift)
+
   ![Unifi](https://img.shields.io/badge/-Unifi-black?style=flat-square&logo=ubiquiti&logoColor=0559C9)
   ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
@@ -21,7 +24,6 @@ Host/Developing: [NoDak Pilot](https://nodakpilot.com/);<br>
   ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
   ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
   ![Kotlin]( https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin)
-  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
   ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
 
 ## 🚀 GitHub
