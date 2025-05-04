@@ -20,7 +20,7 @@ Host/Developing: [NoDak Pilot](https://nodakpilot.com/);<br>
 
   
   ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+  ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
   ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
   ![MariaDB](https://img.shields.io/badge/MariaDB-black?style=flat-square&logo=mariadb)
 
