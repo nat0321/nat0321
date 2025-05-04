@@ -2,7 +2,7 @@
 
 #### A Pilot and a Full-Stack Developer bringing technology and aviation together
 
-Host/Developing [NoDak Pilot](https://nodakpilot.com/);<br>
+Host/Developing: [NoDak Pilot](https://nodakpilot.com/);<br>
 
 ## 💻 Skills
 
@@ -23,4 +23,6 @@ Host/Developing [NoDak Pilot](https://nodakpilot.com/);<br>
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
   ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nat0321&show_icons=true&locale=en&theme=vision-friendly-dark" alt="nat0321" /></p>
+## 🚀 GitHub
+
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nat0321&show_icons=true&locale=en&theme=vision-friendly-dark" alt="nat0321" /></p>
