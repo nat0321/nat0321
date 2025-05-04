@@ -18,13 +18,11 @@ Host/Developing: [NoDak Pilot](https://nodakpilot.com/);<br>
   ![iOS](https://img.shields.io/badge/iOS-black?style=flat-square&logo=apple)
   ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
 
-  
-  ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
   ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+  ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+  ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
   ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
   ![MariaDB](https://img.shields.io/badge/MariaDB-black?style=flat-square&logo=mariadb)
-
-  ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
   ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
 
 ## 🚀 GitHub
