@@ -14,6 +14,7 @@ Host/Developing: [NoDak Pilot](https://nodakpilot.com/);<br>
   ![Unifi](https://img.shields.io/badge/-Unifi-black?style=flat-square&logo=ubiquiti&logoColor=0559C9)
   ![macOS](https://img.shields.io/badge/macOS-black?style=flat-square&logo=apple)
   ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
+  ![Windows](https://img.shields.io/badge/Windows-black?style=flat-square&logo=microsoft)
   ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
   
