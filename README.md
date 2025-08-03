@@ -2,7 +2,7 @@
 
 #### A Pilot and Full-Stack Developer bringing technology and aviation together
 
-Hosting/Developing: [NoDak Pilot](https://nodakpilot.com/);<br>
+Hosting/Developing: [NoDak Pilot](https://nodakpilot.com/)<br>
 
 ## 💻 Skills
 
