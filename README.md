@@ -26,7 +26,3 @@ Hosting/Developing: [NoDak Pilot](https://nodakpilot.com/)<br>
   ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
   ![MariaDB](https://img.shields.io/badge/MariaDB-black?style=flat-square&logo=mariadb)
   ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
-
-## 🚀 GitHub
-
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nat0321&show_icons=true&locale=en&theme=vision-friendly-dark" alt="nat0321" /></p>
